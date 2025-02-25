@@ -1,3 +1,6 @@
 Dokumentacja projektu.docx
-venv/
-myenv/
+venv
+*.pyc
+*~
+__pycache__
+myenv
